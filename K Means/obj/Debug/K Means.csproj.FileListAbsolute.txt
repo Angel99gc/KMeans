@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\bin\Debug\K Means.exe.config
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\bin\Debug\K Means.exe
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\bin\Debug\K Means.pdb
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\obj\Debug\K Means.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\obj\Debug\K Means.exe
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\obj\Debug\K Means.pdb
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\K Means\K Means\obj\Debug\K Means.csprojResolveAssemblyReference.cache
